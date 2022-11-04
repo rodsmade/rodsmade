@@ -3,7 +3,7 @@
 Following a career change in 2019 and subsequent professional experience at the financial sector, I decided to go back to learning the basics to a deeper degree at 42 School São Paulo - a disruptive school established around students’ autonomy and peer-to-peer learning - which I'm enjoying thoroughly!
 
 - 🌱 I’m currently learning C and C++
-- I have work experience with a range of technologies, frameworks and systems, including Java/Spring Boot, Python/Flask, CSS/Bootstrap, Javascript/React, Cobol/IMS, Relational and NoSQL databases and AWS.
+- :hammer: I have work experience with a range of technologies, frameworks and systems, including Java/Spring Boot, Python/Flask, CSS/Bootstrap, Javascript/React, Cobol/IMS, Relational and NoSQL databases and AWS.
 
 - 📫 How to reach me:
   - My [Linkedin](https://www.linkedin.com/in/rodrigo-gregoldo)
@@ -12,8 +12,8 @@ Following a career change in 2019 and subsequent professional experience at the 
 
 - 💬 Ask me about 42! I'm passionate about it :)
 
-- ⚡ Fun fact:
-  - I have an engineering degree while also having learned a fair bit of visual design, to the extent that I have freelanced in the field
+- ⚡ Fun facts:
+  - I have an engineering degree while also having learned a fair bit of visual design, to the extent that I have freelanced in the field.
   - I've done freelance translations (pt <-> en) and even translated subtitles to a Netflix show!
   - I have always enjoyed mathematics and logic, while also being passionate about the arts (particuarly visuals and music).
 
