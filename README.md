@@ -1,6 +1,6 @@
 ### Hi there 👋 Call me Rods. Everything here is made by me :-)
 
-Following a career change in 2019 and subsequent professional experience at the financial sector, I decided to go back and take my time learning the basics of at 42 School São Paulo - a disruptive school established around students’ autonomy and peer-to-peer learning - which I'm enjoying thoroughly!
+Following a career change in 2019 and subsequent professional experience with software development in the financial sector, I decided to go back and take my time learning the basics of at 42 School São Paulo - a disruptive school established around students’ autonomy and peer-to-peer learning - which I'm enjoying thoroughly!
 
 - 🌱 I’m currently learning C and C++
 - :hammer: I have work experience with a range of technologies, frameworks and systems, including Java/Spring Boot, Python/Flask, CSS/Bootstrap, Javascript/React, Cobol/IMS, Relational and NoSQL databases and AWS.
