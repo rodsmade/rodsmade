@@ -12,11 +12,6 @@ Following a career change in 2019 and subsequent professional experience with so
 
 - 💬 Ask me about 42! I'm passionate about it :)
 
-- ⚡ Fun facts:
-  - I have an engineering degree while also having learned a fair bit of visual design, to the extent that I have freelanced in the field.
-  - I've done freelance translations (pt <-> en) and even translated subtitles to a Netflix show!
-  - I have always enjoyed mathematics and logic, while also being passionate about the arts (particuarly visuals and music).
-
 - 😄 Pronouns: they/he.
 
 <!--
